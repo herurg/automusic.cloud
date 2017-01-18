@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import urllib, urllib2, json, os
-query_args = { 'Authorization':'AQAAAAAS71gtAAP8G0w0rf1-b0gQhihSqHUHwPE' }
+query_args = { 'Authorization':'' }
 ondevice = os.listdir('/home/pi/music')
 oncloud = []
 
